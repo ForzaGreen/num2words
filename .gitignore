@@ -66,3 +66,10 @@ typings/
 
 # VSCode project config
 .vscode
+
+# build files
+dist/
+
+# webpack preparation files
+webpack/
+
